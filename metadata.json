@@ -1,0 +1,6 @@
+{
+  "name": "TaskU - Coordinación Universitaria",
+  "description": "Plataforma web y móvil para coordinar trabajos grupales universitarios con alertas de retraso a tiempo y semáforo de cumplimiento.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
